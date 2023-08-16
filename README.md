@@ -33,6 +33,7 @@ Hello I'm junior web and mobile app develop.In my free time, I build software pr
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-E51219?style=for-the-badge&logo=Oracle&logoColor=white)
 
 # Operating System
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
