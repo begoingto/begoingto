@@ -1,6 +1,12 @@
 # I'm Begoignto
 Hello I'm junior web and mobile app develop.In my free time, I build software project and research new technology, and more I improve my experience with tech student.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=begoingto&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=begoingto&layout=compact)](https://github.com/begoingto/github-readme-stats)
 
